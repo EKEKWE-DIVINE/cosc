@@ -1,0 +1,78 @@
+body{
+    /* background-image: url(\343.jpg); */
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.B{
+    position: sticky; 
+    background-color: black; 
+    background-size:auto; 
+    color:white; 
+    text-align: center;
+    padding-top: 2px;
+    font-size: 1cm;
+    border-radius: 5cm;
+}
+
+.C{
+    word-spacing: 8cm; 
+    background-color: black ; 
+    opacity: 0.9;
+}
+
+.D{
+    background-color: white;
+    color: white; 
+    
+    
+}
+
+.E{
+    display: flex;
+    column-gap: 2cm;
+}
+
+.F{
+    height: 25rem;
+    width: 20rem;
+    margin-left: 35px;
+}
+
+.G{
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+
+.counter{
+    display: flex;
+    font-size: 1cm;
+    column-gap: 2.2cm;
+    background-color: black;
+    opacity: calc(0.9);
+    
+}
+
+.H{
+    color: white;
+}
+
+.I{
+    background-color: black;
+    color: white;
+    padding-left: 1cm;
+}
+.kk{
+    padding: 0cm;
+    text-align: center;
+    
+}
+.ll{
+    padding-left: 4cm;
+    padding-right: 3.5cm;
+    float: right;
+    justify-content: center;
+}
+
+    

@@ -49,7 +49,7 @@ body{
     display: flex;
     font-size: 1cm;
     column-gap: 2.2cm;
-    background-color: black;
+    
     opacity: calc(0.9);
     
 }
@@ -59,7 +59,7 @@ body{
 }
 
 .I{
-    background-color: black;
+   
     color: white;
     padding-left: 1cm;
 }

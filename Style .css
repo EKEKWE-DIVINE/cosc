@@ -75,4 +75,44 @@ body{
     justify-content: center;
 }
 
-    
+   /* Original CSS code */
+
+body {
+    /* background-image: url(\343.jpg); */
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.B {
+    position: sticky; 
+    background-color: black; 
+    background-size: auto; 
+    color: white; 
+    text-align: center;
+    padding-top: 2px;
+    font-size: 1cm;
+    border-radius: 5cm;
+}
+
+.C {
+    word-spacing: 8cm; 
+    background-color: black; 
+    opacity: 0.9;
+}
+
+/* Media query for responsiveness */
+@media only screen and (max-width: 768px) {
+    .B {
+        font-size: 0.8cm;
+        border-radius: 3cm;
+    }
+
+    .C {
+        word-spacing: 4cm;
+    }
+
+    /* Add additional responsive styles for other elements if needed */
+}
+
+/* Continue with the rest of your CSS code */
+/* ... */
